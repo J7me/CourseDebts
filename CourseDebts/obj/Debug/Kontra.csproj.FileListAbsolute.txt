@@ -1,0 +1,24 @@
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\bin\Debug\Kontra.exe.config
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\bin\Debug\Kontra.exe
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\bin\Debug\Kontra.pdb
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\bin\Debug\MaterialSkin.dll
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\obj\Debug\Kontra.csproj.AssemblyReference.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\obj\Debug\Kontra.Form1.resources
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\obj\Debug\Kontra.Properties.Resources.resources
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\obj\Debug\Kontra.csproj.GenerateResource.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\obj\Debug\Kontra.csproj.CoreCompileInputs.cache
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\obj\Debug\Kontra.csproj.Up2Date
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\obj\Debug\Kontra.exe
+S:\USERS\52-03\Едемская Мария Владимировна\c#\Kontra\Kontra\obj\Debug\Kontra.pdb
+C:\Users\SH\Desktop\Kontra\Kontra\bin\Debug\Kontra.exe.config
+C:\Users\SH\Desktop\Kontra\Kontra\bin\Debug\Kontra.exe
+C:\Users\SH\Desktop\Kontra\Kontra\bin\Debug\Kontra.pdb
+C:\Users\SH\Desktop\Kontra\Kontra\bin\Debug\MaterialSkin.dll
+C:\Users\SH\Desktop\Kontra\Kontra\obj\Debug\Kontra.csproj.AssemblyReference.cache
+C:\Users\SH\Desktop\Kontra\Kontra\obj\Debug\Kontra.Form1.resources
+C:\Users\SH\Desktop\Kontra\Kontra\obj\Debug\Kontra.Properties.Resources.resources
+C:\Users\SH\Desktop\Kontra\Kontra\obj\Debug\Kontra.csproj.GenerateResource.cache
+C:\Users\SH\Desktop\Kontra\Kontra\obj\Debug\Kontra.csproj.CoreCompileInputs.cache
+C:\Users\SH\Desktop\Kontra\Kontra\obj\Debug\Kontra.csproj.Up2Date
+C:\Users\SH\Desktop\Kontra\Kontra\obj\Debug\Kontra.exe
+C:\Users\SH\Desktop\Kontra\Kontra\obj\Debug\Kontra.pdb
